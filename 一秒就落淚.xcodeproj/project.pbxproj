@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		186CBFF4265D2BE80082C56F /* 一秒就落淚.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "一秒就落淚.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		186CBFF4265D2BE80082C56F /* 一秒落淚啊.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "一秒落淚啊.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		186CBFF7265D2BE80082C56F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		186CBFF9265D2BE80082C56F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		186CBFFB265D2BE80082C56F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		186CBFF5265D2BE80082C56F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				186CBFF4265D2BE80082C56F /* 一秒就落淚.app */,
+				186CBFF4265D2BE80082C56F /* 一秒落淚啊.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -92,7 +92,7 @@
 			);
 			name = "一秒就落淚";
 			productName = "一秒就落淚";
-			productReference = 186CBFF4265D2BE80082C56F /* 一秒就落淚.app */;
+			productReference = 186CBFF4265D2BE80082C56F /* 一秒落淚啊.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,8 +292,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Black.-----";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "Sunsum.-----";
+				PRODUCT_NAME = "一秒落淚啊";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -311,8 +311,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Black.-----";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "Sunsum.-----";
+				PRODUCT_NAME = "一秒落淚啊";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
